@@ -1,0 +1,41 @@
+240215
+
+[일러스트]
+- 패스 그리기 연습
+- 펜툴 방향선 이동
+- 패스 옵션 변경(둥근 모서리, 점선)
+- 기준점 추가&삭제를 활용한 패스 변형
+
+ctrl + D : 방금 진행한 작업 반복
+ctrl + J : 서로 떨어져 있는 기준점 연결 (직접 선택 도구 A로 기준점 선택 후 사용)
+[, ] : 지우개 툴, 브러쉬 크기 조정
+ctrl + Y : 패스 라인만 확인
+
+[git]
+$ mkdir 폴더명 : 폴더 생성
+$git status –s : 파일 삭제
+$ git branch dev : 브랜치 생성
+$ git branch —list  : 브랜치 위치 확인
+$ git switch  dev1 : dev1 브랜치로 이동
+*git switch - : -는 직전에 작업한 브랜치로 이동
+
+main / dev / sub : 각각 다른 영역이라고 이해하면 됨
+main – dev – sub 연속으로 생성 (or) main < dev, sub 형식으로 생성 가능
+
+git switch –c dev : 브랜치 생성 후 바로 이동
+git branch —list : 브랜치 리스트와 현재 위치 확인 가능
+
+git merge 합치고자 하는 브랜치 이름 : 현재 위치한 브랜치와 작성한 이름의 브랜치를 합침
+git branch –D 지울 브랜치 이름 : 브랜치 강제로 삭제 (지울 브랜치 밖에 있어야 함)
+
+Q. 브랜치 합친 뒤에도 브랜치가 남아있는 이유는?
+=> 합치고 사라지는게 아니라 별개의 브런치로 존재, 없애고 싶다면 삭제해야 함
+* :wq 누르면 텍스트에디터 화면에서 빠져나올 수 있음
+
+git branch –m 현재브랜치이름 바꿀브랜치이름 : 브랜치 이름 변경
+
+git config —unset —global user.name
+git config —unset —global user.email
+: 로컬에 저장된 정보 삭제
+git remote rm origin : 깃허브 링크
+ 정보 삭제
