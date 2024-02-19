@@ -13,7 +13,7 @@
 - minus back : 맨 위 패스에서 겹치지 않은 부분을 제외한 나머지 부분 제거
 *shape builder tool : 병합할 패스를 드래그하면 선택된 영역 삭제 및 병합
 
-▶ 패스파인더 활용하여 스마트폰 앱 아이콘 제작하기
+▶ 패스파인더 활용하여 스마트폰 앱 아이콘 제작하rl
 
 정렬 도구 align to selection과 align to artboard, align to kye 차이
  : 선택한 오브젝트 간의 정렬 / 아트보드 전체 기준 정렬
