@@ -131,3 +131,8 @@ table style로 겹치는 테두리 값, 셀 간격, 셀 처리 방법을 설정�
 ### html ###
 요소의 성격을 변경하는 display, visivility, opacity에 대해 배웠다. <br>
 display로 메뉴 버튼을 제작해보았다. 
+
+# 240314 #
+### design ###
+UI/UX 디자인의 개념과 모바일 디자인의 종류를 배웠다. 
+### html ###
