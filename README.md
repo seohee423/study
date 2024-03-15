@@ -138,3 +138,7 @@ UI/UX 디자인의 개념과 모바일 디자인의 종류를 배웠다.
 ### html ###
 em, rem, viewport 단위와 계산법에 대해 배웠다. <br>
 flex 속성과 정렬 방식을 배웠다. 
+
+# 240315 #
+### html ###
+gap, flex flow, justify, align 등 flex 속성에 대해 배웠다. 
