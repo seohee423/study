@@ -142,3 +142,7 @@ flex 속성과 정렬 방식을 배웠다.
 # 240315 #
 ### html ###
 gap, flex flow, justify, align 등 flex 속성에 대해 배웠다. 
+
+# 240318 #
+### html ###
+다양한 flex 속성을 form에 적용하는 법과 이미지, 텍스트 정렬에 대해 배웠다. 
