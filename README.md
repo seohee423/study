@@ -146,3 +146,19 @@ gap, flex flow, justify, align 등 flex 속성에 대해 배웠다.
 # 240318 #
 ### html ###
 다양한 flex 속성을 form에 적용하는 법과 이미지, 텍스트 정렬에 대해 배웠다. 
+
+# 240319 #
+### html ###
+inline flex 적용법과 수열 선택자에 대해 배웠다. 
+
+# 240320 #
+### html ###
+background를 응용해 배경에 이미지를 첨부하고 사이즈 조정하는 법을 배웠다. 
+
+# 240321 #
+### html ###
+아이템 사이즈를 조절하는 flex-grow, flex-basis, flex-shrink에 대해 배웠다. 
+
+# 240322 #
+### html ###
+html과 css에서 배운 내용을 활용해 웹페이지 레이아웃 구성을 해 보았다. 
