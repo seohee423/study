@@ -162,3 +162,7 @@ background를 응용해 배경에 이미지를 첨부하고 사이즈 조정하�
 # 240322 #
 ### html ###
 html과 css에서 배운 내용을 활용해 웹페이지 레이아웃 구성을 해 보았다. 
+
+# 240325 #
+### html ###
+요소의 배치를 설정하는 position(static, relative, absolute, fixed, sticky)를 배웠다. 
