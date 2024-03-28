@@ -166,3 +166,10 @@ html과 css에서 배운 내용을 활용해 웹페이지 레이아웃 구성을
 # 240325 #
 ### html ###
 요소의 배치를 설정하는 position(static, relative, absolute, fixed, sticky)를 배웠다. 
+
+# 240327 #
+### html ###
+스크롤 바를 설정하는 방법과 position-sticky, 요소 계층 순위를 결정하는 z-index에 대해 배웠다. 
+
+# 240328 #
+### html ###
