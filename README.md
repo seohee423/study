@@ -202,3 +202,7 @@ css로 애니메이션 효과를 적용하는 법을 배웠다.
 # 240411 #
 ### html ###
 grid container, grid item 속성에 대해 배우고 행/열 추가, 정렬 기능을 연습했다. 
+
+# 240412 #
+### html ###
+grid 예제를 연습하고 media queries에 대해 배웠다. 
