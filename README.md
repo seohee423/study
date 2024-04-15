@@ -206,3 +206,7 @@ grid container, grid item 속성에 대해 배우고 행/열 추가, 정렬 기�
 # 240412 #
 ### html ###
 grid 예제를 연습하고 media queries에 대해 배웠다. 
+
+# 240412 #
+### html ###
+media queries로 화면 비율에 따른 스타일을 적용했다. 
