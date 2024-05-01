@@ -1,3 +1,11 @@
+# 240501 #
+### JS ###
+DOM 객체, event 속성에 대해 배우고 javaScript 문제를 만들었다. 
+
+# 240430 #
+### JS ###
+spread 전개구문과 배열 - filter, find, forEach, map, reduce를 배웠다. 
+
 # 240429 #
 ### JS ###
 this 키워드, 콜백함수, 비동기통신에 대해 배우고 함수 예제를 풀어보았다. 
