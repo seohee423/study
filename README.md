@@ -1,34 +1,78 @@
+# 240517-240521 #
+### jQuery ###
+배운 내용을 종합해 웹 사이트 예제를 만들었다. 
+
+# 240516 #
+### jQuery ###
+resize, swiper, overlays를 배우고 예제 문제를 풀었다. 
+
+# 240515 #
+### jQuery ###
+가로 스크롤 이벤트를 적용할 때 필요한 horizontalScrolling을 배웠다. 
+
+# 240514 #
+### jQuery ###
+scroll을 기반으로 한 웹사이트 템플릿을 제작해보았다. 
+
+# 240513 #
+### jQuery ###
+scrollTop, scrollLeft을 활용한 예제를 만들었다. 
+
+# 240510 #
+### jQuery ###
+가로, 세로 스크롤 되는 크기를 불러오거나 반환하는 scrollTop, scrollLeft를 배웠다. 
+
+# 240509 #
+### jQuery ###
+slide - 자동으로 슬라이드 되는 이미지 예제를 만들어 보았다. 
+
+# 240508 #
+### jQuery ###
+jQuery 애니메이션을 배웠다. 웹사이트에서의 햄버거 메뉴 레이아웃을 제작했다. 
+
+# 240507 #
+### jQuery ###
+자식 요소를 이동시키는 prependTo와 appendTo를 배웠다. JavaScript와 jQuery에서 배운 내용으로 구구단 게임 예제를 만들었다. 
+
+# 240503 #
+### jQuery ###
+addClass, removeClass, toggleClass로 선택자를 적용하거나 제거하는 법을 배웠다. slideUpDown 메뉴를 제작해보았다. 
+
+# 240502 #
+### jQuery ###
+jQuery에서의 선택자와 event Method, slide 효과를 배웠다. 
+
 # 240501 #
-### JS ###
+### JavaScript ###
 DOM 객체, event 속성에 대해 배우고 javaScript 문제를 만들었다. 
 
 # 240430 #
-### JS ###
+### JavaScript ###
 spread 전개구문과 배열 - filter, find, forEach, map, reduce를 배웠다. 
 
 # 240429 #
-### JS ###
+### JavaScript ###
 this 키워드, 콜백함수, 비동기통신에 대해 배우고 함수 예제를 풀어보았다. 
 
 # 240426 #
-### JS ###
+### JavaScript ###
 배열 Array, 함수에 대해 배웠다. 
 
 # 240425 #
-### JS ###
+### JavaScript ###
 break, continue 키워드, Math 객체, 객체 object를 배웠다. <br>
 Java Script에서 배운 내용을 활용해 예제 문제를 만들어보았다. 
 
 # 240424 #
-### JS ###
+### JavaScript ###
 for문, switch 선택문, while 반복문, scope를 배웠다. 
 
 # 240423 #
-### JS ###
+### JavaScript ###
 if, if else 조건문과 switch 선택문, 논리연산자, 비교연산자, 중첩 if문, 증감연산자를 배웠다. 
 
 # 240422 #
-### JS ###
+### JavaScript ###
 JavaScript 데이터타입, 대입연산자, 문자열연산자, 산술연산자를 배웠다. 
 
 # 240417-240418 #
